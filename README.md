@@ -47,14 +47,21 @@ Testing API SCardGetAttrib with card in reader Generic USB2.0-CRW [Smart Card Re
 - System name (Wide): Failed with error -2146435041
 - Friendly name (Wide): Failed with error -2146435041
 
-### Windows 10 (VDI from Ubuntu 24.04)
+### Windows 10 (VDI from macOS 14.7, Citrix Workspace 2405)
+
+Testing API SCardGetAttrib with card in reader Generic USB2.0-CRW
+- System name (Ascii): Failed with error -2146435038
+- Friendly name (Ascii): Success
+- System name (Wide): Failed with error -2146435038
+- Friendly name (Wide): Success
+
+### Windows 10 (VDI from macOS 14.7, Citrix Workspace 2411)
 
 Testing API SCardGetAttrib with card in reader Generic USB2.0-CRW
 - System name (Ascii): Failed with error -2146435041
 - Friendly name (Ascii): Failed with error -2146435041
 - System name (Wide): Failed with error -2146435041
 - Friendly name (Wide): Failed with error -2146435041
-
 
 ## Error Info
 
