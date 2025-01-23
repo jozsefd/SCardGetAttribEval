@@ -79,7 +79,9 @@ Testing API SCardGetAttrib with card in reader Generic USB2.0-CRW
 
 ## Building
 
+```
 mkdir build
 cd build
 cmake .. -A x64 -G "Visual Studio 17"
 cmake --build .
+```
